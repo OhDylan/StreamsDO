@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "title": "Dota2 Live Game",
+      "description": "I am playing dota2 now! Come watch it",
+      "userId": "100900287714093251053",
+      "id": 2,
+      "image": "https://cdn.vox-cdn.com/thumbor/cOWqHK13EiYjv41gtCmNs0AU2RU=/0x0:1800x967/1200x800/filters:focal(756x340:1044x628)/cdn.vox-cdn.com/uploads/chorus_image/image/63878864/dota2bg_01.0.jpg"
+    },
+    {
+      "title": "Mobilel Legend Stream",
+      "description": "I am playing Mobile Legend live now! Join me",
+      "image": "https://cdn-www.bluestacks.com/bs-images/top-3.png",
+      "userId": "100900287714093251053",
+      "id": 3
+    },
+    {
+      "title": "League of Legend Gameplay",
+      "description": "Live streaming now! Join us in the room to watch it.",
+      "image": "https://pmcvariety.files.wordpress.com/2018/07/league-of-legends-2015-05-15-18-05-46-91.png?w=1000&h=563&crop=1",
+      "userId": "100900287714093251053",
+      "id": 4
+    },
+    {
+      "title": "Watching Mamamoo Live Stage",
+      "description": "Watch Mamamoo funny moments together!",
+      "image": "https://i.ytimg.com/vi/5t7mKJ3MjAo/maxresdefault.jpg",
+      "userId": "100900287714093251053",
+      "id": 5
+    },
+    {
+      "title": "(G)-Idle Live Performance",
+      "description": "(G)-Idle Latata debut stage performance",
+      "image": "https://i.ytimg.com/vi/eZRmP-l3Nz0/maxresdefault.jpg",
+      "userId": "100900287714093251053",
+      "id": 6
+    }
+  ]
+}
